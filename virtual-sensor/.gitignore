@@ -1,0 +1,11 @@
+# AWS IoT Certificates
+certs/
+
+# Dependencies
+node_modules
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
