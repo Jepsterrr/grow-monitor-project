@@ -103,7 +103,7 @@ Before running locally, create the following resources in AWS (region: `eu-north
 
 ```bash
 # Clone project
-git clone <your-repository-url>
+git clone https://github.com/Jepsterrr/grow-monitor-project
 cd grow-monitor-project
 
 # Install dependencies for the virtual sensor
